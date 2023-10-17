@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head> 
-<meta charset="UTF8"><title>Uma Autista Plantando Inclusão</title> 
+<meta charset="UTF8"> 
 </head>
 <body>
 <h1>Uma Autista Plantando Inclusão</h1>
